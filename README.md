@@ -1,3 +1,6 @@
+![Screenshot (28)](https://github.com/khethan123/Malaria_IBQ/assets/100506743/f3a33090-8f44-420e-b294-2c32f3bf14cb)
+![Screenshot (29)](https://github.com/khethan123/Malaria_IBQ/assets/100506743/ca4730f4-3738-4a91-b1e8-ca5bfc09a781)
+![Screenshot (28)](https://github.com/khethan123/Malaria_IBQ/assets/100506743/f1ab4aa6-bb64-46c0-adf3-a04b26fe986f)
 # Malaria Classification
 
 This repository contains the code and resources for a deep learning model that classifies malaria-infected cells. The model is trained on a dataset of microscopic images and deployed in a simple dashboard for easy and efficient malaria diagnosis.
@@ -74,7 +77,12 @@ Follow these steps to use the malaria classification dashboard:
 3. Click the "Classify" button to obtain the prediction result, indicating whether the cells are infected with malaria or not.
 
 ## Results
-Result images and detailed description of findings and model performance metrics are present in [report](https://github.com/khethan123/Malaria_IBQ/blob/main/report.pdf)
+Result images and detailed description of findings and model performance metrics are present in [report](
+tps://github.com/khethan123/Malaria_IBQ/blob/main/report.pdf)
+![test 1](https://github.com/khethan123/Malaria_IBQ/assets/100506743/b8785c17-fffe-46d2-bb5a-611538e72e28)
+![test 2](https://github.com/khethan123/Malaria_IBQ/assets/100506743/2a02d517-c93d-4f5a-835d-969f09b39346)
+![test 3](https://github.com/khethan123/Malaria_IBQ/assets/100506743/6e6c93c1-87c4-4058-b794-d9e9f7c9412d)
+
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Let's collaborate to enhance the accuracy and usability of the malaria classification model.
