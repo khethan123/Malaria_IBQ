@@ -74,7 +74,7 @@ Follow these steps to use the malaria classification dashboard:
 3. Click the "Classify" button to obtain the prediction result, indicating whether the cells are infected with malaria or not.
 
 ## Results
-Placeholder for result images and detailed description of findings and model performance metrics.
+Result images and detailed description of findings and model performance metrics are present in [source-link]()
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Let's collaborate to enhance the accuracy and usability of the malaria classification model.
