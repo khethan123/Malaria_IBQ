@@ -79,8 +79,3 @@ tps://github.com/khethan123/Malaria_IBQ/blob/main/report.pdf)
 ![test 1](https://github.com/khethan123/Malaria_IBQ/assets/100506743/b8785c17-fffe-46d2-bb5a-611538e72e28)
 ![test 2](https://github.com/khethan123/Malaria_IBQ/assets/100506743/2a02d517-c93d-4f5a-835d-969f09b39346)
 ![test 3](https://github.com/khethan123/Malaria_IBQ/assets/100506743/6e6c93c1-87c4-4058-b794-d9e9f7c9412d)
-
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Let's collaborate to enhance the accuracy and usability of the malaria classification model.
-
